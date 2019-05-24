@@ -7,3 +7,6 @@ collection of nice articles
 
 # svn
 https://liepooh.tistory.com/6
+
+# git
+https://tosbourn.com/git-command-to-show-files-changed-in-a-commit/
