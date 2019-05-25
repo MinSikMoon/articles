@@ -15,4 +15,4 @@ https://liepooh.tistory.com/6
 
 - 자바 + cmd : https://m.blog.naver.com/PostView.nhn?blogId=kiyun99&logNo=220568129104&proxyReferer=https%3A%2F%2Fwww.google.com%2F
 - cmd 파이프라인 : https://shinb.tistory.com/405
-- 
+-https://stackoverflow.com/questions/3068929/how-to-read-file-contents-into-a-variable-in-a-batch-file
